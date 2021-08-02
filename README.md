@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning** and **CUDA**
 
 - 📫 How to reach me **jb1000335@gmail.com**
 
